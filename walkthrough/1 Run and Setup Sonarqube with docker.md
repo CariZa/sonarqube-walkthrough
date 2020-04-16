@@ -23,7 +23,7 @@ Just a note: I'm using the sonarqube image tagged "8.2-community" this was the l
 
 Give it a few minutes to spin up.
 
-You can allows follow logs if it’s taking a while to spin up 
+You can follow logs if it’s taking a while to spin up 
 
 ```
 $ docker logs sonarqube -f
