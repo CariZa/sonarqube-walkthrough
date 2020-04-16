@@ -80,9 +80,3 @@ sonar-scanner \
 ```
 
 I will repeat this information, but wanted make a mention of it before we move on.
-
-
-Let's 
-
-
-TODO: Screenshots & code? Maybe? 
