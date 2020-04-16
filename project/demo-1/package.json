@@ -1,0 +1,41 @@
+{
+  "name": "demo-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc --reporter=html --reporter=text mocha --file src/*.js --exclude *.spec.js --exit",
+    "coverage-report": "nyc report --reporter=lcovonly",
+    "lint": "eslint ./src --ignore-path .gitignore",
+    "lint-report": "eslint ./src -f json -o reports/report.json --ignore-path .gitignore || true"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-sonarjs": "^0.5.0",
+    "mocha": "^7.1.1",
+    "nodemon": "^2.0.3",
+    "nyc": "^15.0.1",
+    "sinon": "^9.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "nyc": {
+    "all": true,
+    "include": [
+      "src/**/*.js"
+    ],
+    "exclude": [
+      "**/*.spec.js"
+    ],
+    "check-coverage": true,
+    "branches": 0,
+    "lines": 0,
+    "functions": 0,
+    "statements": 0
+  }
+}
