@@ -2,22 +2,16 @@
 
 Let’s setup sonarqube ourselves and play around with it.
 
-Sonarqube in itself is just a GUI. It displays data that is the sonarqube scanner sends it. It doesn’t do any scanning or monitoring itself, it relies on the sonarqube scanner to send it information.
+Sonarqube is a really useful tool to use to view the quality of multiple projects. It integrates really well with CI (continuous integration). 
 
-It offers a few useful features for effective CI 
+It displays data that sonarqube scanner sends it. It relies on the sonarqube scanner to send it information.
 
-Quality gates
-Sonarqube can help notify you if code drops below a certain quality level
-Again, it does not monitor that, it tells you what you send it
-Feedback/Notifications - pipeline errors
+This walkthrough is a hands on step by step journey to get practical experience with sonarqube in an environment of your choosing.
 
-Get experienced
-
-Based on this guide:
+Some references:
 
 https://docs.sonarqube.org/latest/setup/get-started-2-minutes/
 
-https://hub.docker.com/r/bitnami/sonarqube/
 
 Run with docker:
 
