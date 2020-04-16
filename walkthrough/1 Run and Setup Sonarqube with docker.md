@@ -36,3 +36,6 @@ http://localhost:9000
 
 That’s it! You have a running sonarqube environment running with docker to integrate with. Now we need the sonarqube scanner.
 
+----
+
+[Next Section: 2 Setup a sonarqube scanner.md](https://github.com/CariZa/sonarqube-walkthrough/blob/master/walkthrough/2%20Setup%20a%20sonarqube%20scanner.md)

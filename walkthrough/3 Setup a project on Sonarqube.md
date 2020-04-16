@@ -80,3 +80,7 @@ sonar-scanner \
 ```
 
 I will repeat this information, but wanted make a mention of it before we move on.
+
+----
+
+[Next Section: 4 Setup a small nodejs api project to scan.md](https://github.com/CariZa/sonarqube-walkthrough/blob/master/walkthrough/4%20Setup%20a%20small%20nodejs%20api%20project%20to%20scan.md)

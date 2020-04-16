@@ -67,3 +67,7 @@ Once you have run the sonarqube command above you can go to the issues section, 
 This is a nice way to add linting both on the code level and have it match up on sonarqube.
 
 It's a very good idea to make sure linting runs whenever someone pushes code to your repo. It will help the project, create standardized ways of coding and consistent feedback for developers to help them maintain the code.
+
+----
+
+[Next Section: 7 Add tests and code coverage.md](https://github.com/CariZa/sonarqube-walkthrough/blob/master/walkthrough/7%20Add%20tests%20and%20code%20coverage.md)

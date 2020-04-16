@@ -123,3 +123,6 @@ Hello world!
 
 Now that we have setup a project, let's integrate this with the sonarqube we are running.
 
+----
+
+[Next Section: 5 Use sonarqube scanner to analyse the project.md](https://github.com/CariZa/sonarqube-walkthrough/blob/master/walkthrough/6%20Add%20linting.md)

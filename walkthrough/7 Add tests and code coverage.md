@@ -214,3 +214,7 @@ sonar-scanner \
 If you refresh your project in sonarqube you will see the code coverage has now gone up and reflects the code coverage of your project code.
 
 Now we're not quite done yet, we need to still add some tests and code coverage. We will go over that in the next section.
+
+----
+
+[Next Section: 8 Final thoughts.md](https://github.com/CariZa/sonarqube-walkthrough/blob/master/walkthrough/8%20Final%20thoughts.md)

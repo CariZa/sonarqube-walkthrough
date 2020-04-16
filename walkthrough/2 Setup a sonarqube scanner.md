@@ -39,3 +39,6 @@ $ sonar-scanner --version
 
 Just to recap quick, you’ve created and run a sonarqube instance with docker. And you have installed the sonarqube scanner to create the sonarqube data to send to the sonarqube instance running with docker.
 
+----
+
+[Next Section: 3 Setup a project on Sonarqube.md](https://github.com/CariZa/sonarqube-walkthrough/blob/master/walkthrough/3%20Setup%20a%20project%20on%20Sonarqube.md)

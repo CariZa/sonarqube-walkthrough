@@ -5,3 +5,7 @@ As mentioned in the linting section, it's a very good idea to make sure linting 
 Generate a culture of code quality as the code is written. 
 
 Sonarqube and linting is meant to be used as a means to guide the development of a project. It's an example of how steps in the software development process can leverage automation. 
+
+----
+
+Done :)

@@ -164,3 +164,7 @@ This part was just a basic analysis.
 To really get value out of CI we need to include linting and tests (with code coverage). This is where we can also really start benefiting from sonarqube's quality gates. 
 
 Adding sonarqube into your CI pipelines can help ensure we keep code tested and keep the quality of the code high.
+
+----
+
+[Next Section: 6 Add linting.md](https://github.com/CariZa/sonarqube-walkthrough/blob/master/walkthrough/6%20Add%20linting.md)
