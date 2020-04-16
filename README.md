@@ -22,3 +22,10 @@ The walkthrough:
 
 * [8 Final thoughts.md](https://github.com/CariZa/sonarqube-walkthrough/blob/master/walkthrough/8%20Final%20thoughts.md)
 
+### Project code
+
+As you go through the walkthrough you will add code to a nodejs project you setup from the ground up.
+
+If you'd like to see the final code, I've placed it all in this same repo in the "project/demo-1" folder:
+
+https://github.com/CariZa/sonarqube-walkthrough/tree/master/project/demo-1
