@@ -1,4 +1,4 @@
-Part 2: Setup a sonarqube scanner
+## Part 2: Setup a sonarqube scanner
 
 
 Setup sonarqube scanner in the environment you want to run the analysis on the code 

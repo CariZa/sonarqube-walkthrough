@@ -1,4 +1,4 @@
-Part 3 Setup a project on Sonarqube
+## Part 3 Setup a project on Sonarqube
 
 Create a project
 

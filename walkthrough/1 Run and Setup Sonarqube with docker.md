@@ -1,4 +1,4 @@
-Part 1: Run and Setup Sonarqube with docker
+## Part 1: Run and Setup Sonarqube with docker
 
 Let’s setup sonarqube ourselves and play around with it.
 

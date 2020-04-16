@@ -1,4 +1,4 @@
-Part 5: Use sonarqube scanner to analyse the project
+## Part 5: Use sonarqube scanner to analyse the project
 
 Now let’s setup some steps so we can run the sonarqube scanner on our nodejs project:
 

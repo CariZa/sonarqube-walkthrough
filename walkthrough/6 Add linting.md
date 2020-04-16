@@ -1,4 +1,4 @@
-Part 6: Add linting
+## Part 6: Add linting
 
 Add these libraries to your project:
 

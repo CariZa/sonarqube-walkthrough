@@ -1,4 +1,4 @@
-Part 7: Add tests and code coverage
+## Part 7: Add tests and code coverage
 
 Install packages called sinon, nyc and mocha:
 

@@ -1,4 +1,4 @@
-Part 8: Add tests and code coverage
+## Part 8: Add tests and code coverage
 
 As mentioned in the linting section, it's a very good idea to make sure linting runs whenever someone pushes code to your repo. It will help the project, create standardized ways of coding and consistent feedback for developers to help them maintain the code. 
 
